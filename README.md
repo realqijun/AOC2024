@@ -7,3 +7,5 @@ This repository contains my code for 2024's advent of code
 Itinerary
 
 1. Day 1: Historian Hysteria
+2. Day 2: Red-Nosed Reports
+3. Day 3: Mull It Over
