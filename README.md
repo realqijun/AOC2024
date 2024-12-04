@@ -9,3 +9,4 @@ Itinerary
 1. Day 1: Historian Hysteria
 2. Day 2: Red-Nosed Reports
 3. Day 3: Mull It Over
+4. Day 4: Ceres Search
