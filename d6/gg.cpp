@@ -82,6 +82,7 @@ int	main(int ac, char **av)
 	int	count = 0;
 	for (int i = 0; i < map.size(); i++)
 	{
+		std::cout << map[i] << std::endl;
 		for (int j = 0; j < map[i].size(); j++)
 		{
 			if (map[i][j] == 'X')
