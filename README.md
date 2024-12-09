@@ -14,3 +14,4 @@ Itinerary
 6. Day 6: Guard Gallivant
 7. Day 7: Bridge Repair
 8. Day 8: Resonant Collinearity
+9. Day 9: Disk Fragmenter
