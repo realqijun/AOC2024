@@ -17,3 +17,5 @@ Itinerary
 9. Day 9: Disk Fragmenter
 10. Day 10: Hoof It
 11. Day 11: Plutonian Pebbles
+12. Day 12: Garden Groups
+13. Day 13: Claw Contraption
