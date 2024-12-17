@@ -19,3 +19,5 @@ Itinerary
 11. Day 11: Plutonian Pebbles
 12. Day 12: Garden Groups
 13. Day 13: Claw Contraption
+14. Day 14: Restroom Redoubt
+15. Day 15: Warehouse Woes
