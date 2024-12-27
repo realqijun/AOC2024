@@ -21,5 +21,7 @@ Itinerary
 13. Day 13: Claw Contraption
 14. Day 14: Restroom Redoubt
 15. Day 15: Warehouse Woes
-16. 
+16. Day 16: Reindeer Maze 
 17. Day 17: Chronospatial Computer
+18.
+19. Day 19: Linen Layout
