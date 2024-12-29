@@ -25,3 +25,4 @@ Itinerary
 17. Day 17: Chronospatial Computer
 18.
 19. Day 19: Linen Layout
+20. Day 20: Race Condition
