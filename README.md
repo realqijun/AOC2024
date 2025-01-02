@@ -23,6 +23,11 @@ Itinerary
 15. Day 15: Warehouse Woes
 16. Day 16: Reindeer Maze 
 17. Day 17: Chronospatial Computer
-18.
+18. Day 18: RAM Run
 19. Day 19: Linen Layout
 20. Day 20: Race Condition
+21. Day 21: Keypad Conundrum
+22. Day 22: Monkey Market
+23. Day 23: LAN Party
+24. Day 24: Crossed Wires
+25. Day 25: Code Chronicle
